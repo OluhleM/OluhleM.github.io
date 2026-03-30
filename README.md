@@ -64,15 +64,6 @@ Table View High School
 - Contributed to a system for table management, order processing, and reporting  
 - Focused on process automation and efficiency  
 
----
-
-## 📌 Additional Information
-- Strong understanding of object-oriented programming (encapsulation, inheritance, polymorphism, abstraction)  
-- Experience with REST APIs, validation, and request/response handling  
-- Able to manage deadlines and deliver with minimal supervision  
-
----
-
 ## 📞 References
 
 **Rethabile Molaoa**  
