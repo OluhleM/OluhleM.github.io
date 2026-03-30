@@ -62,7 +62,9 @@ Table View High School
 
 ### Restaurant Operations System
 - Contributed to a system for table management, order processing, and reporting  
-- Focused on process automation and efficiency  
+- Focused on process automation and efficiency
+
+---
 
 ## 📞 References
 
