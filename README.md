@@ -60,3 +60,7 @@ Supervisor, City of Cape Town
 Senior Firefighter, City of Cape Town  
 📞 +27 65 612 5518  
 📧 chey.mcdonald@capetown.gov.za
+
+---
+## Mock Interview
+<video src="./oluhlem-222419636-mock-interview.mp4" controls width="600"></video>
