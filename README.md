@@ -49,6 +49,23 @@ Table View High School
 
 ---
 
+## 🚀 Projects
+
+### Beauty Service Booking Platform
+- Built a full-stack system supporting customer and salon registration  
+- Implemented real-time scheduling and booking logic  
+- Tech: Node.js, Express.js, MongoDB  
+
+### Salon System (Backend Focus)
+- Designed RESTful APIs for appointment management and shopping cart  
+- Applied clean architecture and structured database design  
+
+### Restaurant Operations System
+- Contributed to a system for table management, order processing, and reporting  
+- Focused on process automation and efficiency  
+
+---
+
 ## 📞 References
 
 **Rethabile Molaoa**  
@@ -62,5 +79,5 @@ Senior Firefighter, City of Cape Town
 📧 chey.mcdonald@capetown.gov.za
 
 ---
-## Mock Interview
+## 🎥 Mock Interview
 <video src="oluhlem 222419636 mock interview.mp4" controls width="500"></video>
