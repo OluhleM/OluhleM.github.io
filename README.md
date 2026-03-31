@@ -63,4 +63,4 @@ Senior Firefighter, City of Cape Town
 
 ---
 ## Mock Interview
-<video src="./OluhleM.github.io/OluhleM/oluhlem-222419636-mock-interview.mp4" controls width="600"></video>
+<video src="oluhlem 222419636 mock interview.mp4" controls width="600"></video>
