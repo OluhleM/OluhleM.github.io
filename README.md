@@ -84,7 +84,7 @@ Senior Firefighter, City of Cape Town
 
 ---
 
-## Coding in Markdown Reflection
+## 💻 Coding in Markdown Reflection
 
 ---
 
@@ -96,7 +96,7 @@ To overcome these challenges, I went online and researched how to format text in
 
 ---
 
-## Mock Interview Experience
+## 📹 Mock Interview Experience
 
 The mock interview was one of the most challenging tasks I have undertaken, mainly because it required me to engage with myself critically.
 
@@ -108,7 +108,7 @@ As a result, I was able to conduct the mock interview effectively, leading to a 
 
 ---
 
-## Publishing on Github Pages
+## 🗞 Publishing on Github Pages
 
 I was required to publish my work using GitHub Pages as part of the task. My goal was to follow the instructions provided in the subject guide and successfully get my project published online. I carefully followed the steps outlined in the guide. Whenever I was unsure about something, I searched online for clarification, which helped me stay on track and complete the process without major issues.
 
