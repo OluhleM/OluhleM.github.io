@@ -81,3 +81,20 @@ Senior Firefighter, City of Cape Town
 ---
 ## 🎥 Mock Interview
 <video src="oluhlem 222419636 mock interview.mp4" controls width="500"></video>
+
+---
+
+## Coding in Markdown Reflection
+
+### Learning Markdown
+
+Learning how to code in Markdown was a refreshing experience. It felt different from the type of coding we are used to, which usually comes with strict rules and syntax requirements. Markdown, on the other hand, is simpler and more flexible.
+
+### Challenges I Faced
+
+One of the main challenges I encountered was formatting headings and applying **bold** and *italic* styles correctly. I also struggled with organizing my paragraphs using proper headings and highlighting key points effectively.
+
+### How I Solved It
+
+To overcome these challenges, I went online and researched how to format text in Markdown. After trying out what I found, everything worked exactly the way I wanted. I also discovered that there are multiple ways to format text and headings, which made the process even more interesting.
+---
