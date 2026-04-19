@@ -86,15 +86,30 @@ Senior Firefighter, City of Cape Town
 
 ## Coding in Markdown Reflection
 
-### Learning Markdown
+---
 
 Learning how to code in Markdown was a refreshing experience. It felt different from the type of coding we are used to, which usually comes with strict rules and syntax requirements. Markdown, on the other hand, is simpler and more flexible.
 
-### Challenges I Faced
-
 One of the main challenges I encountered was formatting headings and applying **bold** and *italic* styles correctly. I also struggled with organizing my paragraphs using proper headings and highlighting key points effectively.
 
-### How I Solved It
-
 To overcome these challenges, I went online and researched how to format text in Markdown. After trying out what I found, everything worked exactly the way I wanted. I also discovered that there are multiple ways to format text and headings, which made the process even more interesting.
+
 ---
+
+## Mock Interview Experience
+
+The mock interview was one of the most challenging tasks I have undertaken, mainly because it required me to engage with myself critically.
+
+I had to practise the interview questions, read them aloud to provide context as if I were addressing an employer, and then reflect on real-life situations that related to each question. I also had to structure my responses clearly and professionally, all while ensuring that the video was recording properly, capturing the full frame, and avoiding background noise from peers at res.
+
+To manage the environment, I asked my roommate to excuse me for some time while I prepared and recorded the final version of the video. Fortunately, he had errands to attend to and left the room, which gave me sufficient time and a quiet space to complete the task.
+
+As a result, I was able to conduct the mock interview effectively, leading to a successful submission.
+
+---
+
+## Publishing on Github Pages
+
+I was required to publish my work using GitHub Pages as part of the task. My goal was to follow the instructions provided in the subject guide and successfully get my project published online. I carefully followed the steps outlined in the guide. Whenever I was unsure about something, I searched online for clarification, which helped me stay on track and complete the process without major issues.
+
+Overall, I did not find the task particularly difficult. The clear instructions and the ability to find additional help online made the process smooth and manageable.
