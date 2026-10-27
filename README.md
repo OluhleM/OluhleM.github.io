@@ -140,13 +140,13 @@ A task is complete when the functionality has been implemented, tested, and veri
 #### Continuous Improvement
 The team will review progress, identify challenges, and apply lessons learned throughout development. This charter may be updated as project requirements and working practices evolve.
 
-## Reflection on Agile Charter:
+## 🪞 Reflection on Agile Charter:
 Creating the Agile Team Charter helped me understand the importance of defining project goals, responsibilities, and working agreements. It established a common understanding of how the WashTrack team should collaborate, manage tasks, and maintain software quality. I also learned that an Agile charter is a living document that can be updated as the project evolves and new challenges arise.
 
 ---
 ## 👤 User Stories & Tasks
 
-#### User 1: 📱 Student Registration and Login
+### User 1: 📱 Student Registration and Login
 
 User story: As a student, I want to register and log in so that I can securely access WashTrack.
 
@@ -157,7 +157,7 @@ Implement JWT authentication.
 Validate user credentials.
 Restrict access to authorised users.
 
-#### User 2: 🤖 View Laundry Machines
+### User 2: 🤖 View Laundry Machines
 
 User story: As a student, I want to view laundry machines and their status so that I can identify available machines.
 
@@ -167,7 +167,7 @@ Create machine database records.
 Display machines on the student dashboard.
 Show machine availability and fault status.
 
-#### User 3: Book a Laundry Machine
+### User 3: Book a Laundry Machine
 
 User story: As a student, I want to book and cancel laundry machines so that I can manage my laundry activities.
 
@@ -178,7 +178,7 @@ Save bookings to MongoDB.
 Display booking history.
 Implement cancellation and points refunds.
 
-#### User 4: ✴️ Manage Points
+### User 4: ✴️ Manage Points
 
 User story: As a student, I want to view my points balance so that I can monitor my available booking points.
 
@@ -190,7 +190,7 @@ Update points after cancellation.
 Display the current balance.
 
 
-#### User 5: 🤖 Report Faulty Machines
+### User 5: 🤖 Report Faulty Machines
 
 User story: As a student, I want to report faulty machines so that managers can address problems.
 
@@ -200,7 +200,7 @@ Develop a fault-reporting form.
 Save reports to MongoDB.
 Update machine status when a fault is reported.
 
-#### User 6: 🏗️ Test and Deploy WashTrack
+### User 6: 🏗️ Test and Deploy WashTrack
 
 User story: As a project stakeholder, I want a tested and deployed application so that users can access its functionality reliably.
 
@@ -220,6 +220,23 @@ Creating user stories and breaking them into smaller tasks helped me understand 
 ## 🖼️ Product Backlog: Trello
 <img src="image.png" controls width="500"></img>
 
+## 🪞 Reflection on Product Backlog
+
+Creating the product backlog was challenging because I had to identify and organise the different features and requirements of WashTrack. There was a lot to consider, and prioritising the tasks required careful planning. However, I managed to work through the process and develop a structured list of requirements. This helped me understand the importance of prioritisation and planning in Agile development.
+
+
 ---
 ## 🏃🏾 Sprint Backlog: Trello
 <img src="image2.png" controls width="500"></img>
+
+## 🪞 Reflection on Sprint Backlog
+
+Developing the sprint backlog was challenging because I had to break larger features into smaller, manageable tasks and organise them according to development priorities. The process involved considerable planning, but I managed to complete it by focusing on the project's main objectives. I learned how sprint backlogs help organise workloads, monitor progress, and keep development focused on achievable goals.
+
+---
+## 🏃🏾 Agile Logbook: Trello
+<img src="image3.png" controls width="500"></img>
+
+## 🪞 Reflection on Agile Logbook
+
+Maintaining the Agile logbook was challenging because it required me to document development activities, challenges, progress, and lessons learned. Recording and organising the information took time, especially when reflecting on the different stages of WashTrack. Despite the workload, I struggled to complete the logbook to enterprise standard but completed it nonetheless. This experience taught me the importance of documenting progress and reflecting on challenges to identify areas for improvement in future projects.
