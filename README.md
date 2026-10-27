@@ -96,3 +96,125 @@ As a result, I was able to conduct the mock interview effectively, leading to a 
 I was required to publish my work using GitHub Pages as part of the task. My goal was to follow the instructions provided in the subject guide and successfully get my project published online. I carefully followed the steps outlined in the guide. Whenever I was unsure about something, I searched online for clarification, which helped me stay on track and complete the process without major issues.
 
 Overall, I did not find the task particularly difficult. The clear instructions and the ability to find additional help online made the process smooth and manageable.
+
+---
+## 🗒️WashTrack Agile Team Charter
+
+#### Project Purpose:
+WashTrack is a laundry management application designed to help students at New Market Junction monitor machine availability, book laundry machines, manage points, and report faulty equipment.
+
+#### Team Goals:
+Develop a functional and user-friendly application.
+Implement student authentication, machine bookings, and points management.
+Enable fault reporting and management.
+Test and deploy a reliable application.
+
+#### Core Values:
+Collaboration:  Share ideas and support team members.
+Accountability:  Take responsibility for assigned tasks.
+Transparency:  Communicate progress and challenges.
+Quality:  Test features before considering them complete.
+Continuous Improvement:  Learn from feedback and mistakes.
+
+#### Roles and Responsibilities:
+Frontend: Develop the user interface.
+Backend: Implement APIs, authentication, and application logic.
+Database: Manage data storage and persistence.
+Testing: Identify defects and verify functionality.
+Documentation: Maintain project records and evidence.
+Both responsible for everything and going over the next person's work.
+
+#### Working Agreements:
+Use Trello to organise and track tasks.
+Use GitHub for version control and collaboration.
+Break requirements into manageable user stories and tasks.
+Communicate progress and technical challenges.
+Test completed features and document important changes.
+
+#### Decision Making
+Technical decisions should be based on project requirements, functionality, and maintainability. Disagreements will be resolved through discussion and consideration of alternative solutions.
+
+#### Definition of Done (DoD):
+A task is complete when the functionality has been implemented, tested, and verified against its requirements. Relevant code and documentation must also be updated.
+
+#### Continuous Improvement
+The team will review progress, identify challenges, and apply lessons learned throughout development. This charter may be updated as project requirements and working practices evolve.
+
+## Reflection on Agile Charter:
+Creating the Agile Team Charter helped me understand the importance of defining project goals, responsibilities, and working agreements. It established a common understanding of how the WashTrack team should collaborate, manage tasks, and maintain software quality. I also learned that an Agile charter is a living document that can be updated as the project evolves and new challenges arise.
+
+---
+## 👤 User Stories & Tasks
+
+#### User 1: 📱 Student Registration and Login
+
+User story: As a student, I want to register and log in so that I can securely access WashTrack.
+
+Tasks:
+
+Develop registration and login functionality.
+Implement JWT authentication.
+Validate user credentials.
+Restrict access to authorised users.
+
+#### User 2: 🤖 View Laundry Machines
+
+User story: As a student, I want to view laundry machines and their status so that I can identify available machines.
+
+Tasks:
+
+Create machine database records.
+Display machines on the student dashboard.
+Show machine availability and fault status.
+
+#### User 3: Book a Laundry Machine
+
+User story: As a student, I want to book and cancel laundry machines so that I can manage my laundry activities.
+
+Tasks:
+
+Implement booking functionality.
+Save bookings to MongoDB.
+Display booking history.
+Implement cancellation and points refunds.
+
+#### User 4: ✴️ Manage Points
+
+User story: As a student, I want to view my points balance so that I can monitor my available booking points.
+
+Tasks:
+
+Assign ten starting points to new students.
+Deduct points when booking.
+Update points after cancellation.
+Display the current balance.
+
+
+#### User 5: 🤖 Report Faulty Machines
+
+User story: As a student, I want to report faulty machines so that managers can address problems.
+
+Tasks:
+
+Develop a fault-reporting form.
+Save reports to MongoDB.
+Update machine status when a fault is reported.
+
+#### User 6: 🏗️ Test and Deploy WashTrack
+
+User story: As a project stakeholder, I want a tested and deployed application so that users can access its functionality reliably.
+
+Tasks:
+
+Test authentication, bookings, points, and fault reporting.
+Fix identified defects.
+Configure MongoDB Atlas and environment variables.
+Deploy the frontend and backend.
+Verify the deployed application.
+
+## 🪞 Reflection on User Stories & Tasks
+
+Creating user stories and breaking them into smaller tasks helped me understand how Agile translates user needs into manageable development activities. Writing stories from the users' perspectives ensured that WashTrack's features addressed practical problems. Breaking each story into tasks also made development easier to organise, track, and test using Trello.
+
+---
+
