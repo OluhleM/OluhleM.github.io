@@ -120,7 +120,7 @@ Continuous Improvement:  Learn from feedback and mistakes.
 Frontend: Develop the user interface.
 Backend: Implement APIs, authentication, and application logic.
 Database: Manage data storage and persistence.
-Testing: Identify defects and verify functionality.
+Testing: Identify bugs and verify functionality.
 Documentation: Maintain project records and evidence.
 Both responsible for everything and going over the next person's work.
 
@@ -185,6 +185,7 @@ User story: As a student, I want to view my points balance so that I can monitor
 Tasks:
 
 Assign ten starting points to new students.
+Renew them every 1st of the month.
 Deduct points when booking.
 Update points after cancellation.
 Display the current balance.
@@ -192,7 +193,7 @@ Display the current balance.
 
 ### User 5: 🤖 Report Faulty Machines
 
-User story: As a student, I want to report faulty machines so that managers can address problems.
+User story: As a student, I want to report faulty machines so that managers can address problems and reimburse points.
 
 Tasks:
 
@@ -212,31 +213,49 @@ Configure MongoDB Atlas and environment variables.
 Deploy the frontend and backend.
 Verify the deployed application.
 
-## 🪞 Reflection on User Stories & Tasks
+## 🪞 Reflection on User Stories & Tasks:
 
 Creating user stories and breaking them into smaller tasks helped me understand how Agile translates user needs into manageable development activities. Writing stories from the users' perspectives ensured that WashTrack's features addressed practical problems. Breaking each story into tasks also made development easier to organise, track, and test using Trello.
 
 ---
 ## 🖼️ Product Backlog: Trello
-<img src="image.png" controls width="500"></img>
 
-## 🪞 Reflection on Product Backlog
+<table>
+  <tr>
+    <td><img src="image.png" width="600" alt="First Image"></td>
+    <td><img src="image4.png" width="600" alt="Second Image"></td>
+  </tr>
+</table>
+
+## 🪞 Reflection on Product Backlog:
 
 Creating the product backlog was challenging because I had to identify and organise the different features and requirements of WashTrack. There was a lot to consider, and prioritising the tasks required careful planning. However, I managed to work through the process and develop a structured list of requirements. This helped me understand the importance of prioritisation and planning in Agile development.
 
 
 ---
 ## 🏃🏾 Sprint Backlog: Trello
-<img src="image2.png" controls width="500"></img>
 
-## 🪞 Reflection on Sprint Backlog
+<table>
+  <tr>
+    <td><img src="image2.png" width="600" alt="First Image"></td>
+    <td><img src="image5.png" width="600" alt="Second Image"></td>
+  </tr>
+</table>
+
+## 🪞 Reflection on Sprint Backlog:
 
 Developing the sprint backlog was challenging because I had to break larger features into smaller, manageable tasks and organise them according to development priorities. The process involved considerable planning, but I managed to complete it by focusing on the project's main objectives. I learned how sprint backlogs help organise workloads, monitor progress, and keep development focused on achievable goals.
 
 ---
 ## 🏃🏾 Agile Logbook: Trello
-<img src="image3.png" controls width="500"></img>
 
-## 🪞 Reflection on Agile Logbook
+<table>
+  <tr>
+    <td><img src="image3.png" width="600" alt="First Image"></td>
+    <td><img src="image6.png" width="600" alt="Second Image"></td>
+  </tr>
+</table>
+
+## 🪞 Reflection on Agile Logbook:
 
 Maintaining the Agile logbook was challenging because it required me to document development activities, challenges, progress, and lessons learned. Recording and organising the information took time, especially when reflecting on the different stages of WashTrack. Despite the workload, I struggled to complete the logbook to enterprise standard but completed it nonetheless. This experience taught me the importance of documenting progress and reflecting on challenges to identify areas for improvement in future projects.
