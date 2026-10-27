@@ -217,9 +217,9 @@ Verify the deployed application.
 Creating user stories and breaking them into smaller tasks helped me understand how Agile translates user needs into manageable development activities. Writing stories from the users' perspectives ensured that WashTrack's features addressed practical problems. Breaking each story into tasks also made development easier to organise, track, and test using Trello.
 
 ---
-## 🖼️ Product Backlog
+## 🖼️ Product Backlog: Trello
 <img src="image.png" controls width="500"></img>
 
 ---
-## 🏃🏾 Sprint Backlog
+## 🏃🏾 Sprint Backlog: Trello
 <img src="image2.png" controls width="500"></img>
